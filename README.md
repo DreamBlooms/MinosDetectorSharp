@@ -77,4 +77,4 @@ python convert_to_onnx.py -m Minos-v1 -o Minos-v1-onnx
 
 ## License
 
-Apache-2.0 (same as Minos-v1)
+[MIT](LICENSE)
